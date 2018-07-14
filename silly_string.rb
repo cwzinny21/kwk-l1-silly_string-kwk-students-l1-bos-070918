@@ -11,7 +11,7 @@ puts "My favorite word is #{favorite_word_in_all_caps}"
 
 
 
-phrase = "happy summer!".downcase
+lowercased_phrase = "Happy Summer!".downcase
 
 # Challenge 4: Count how many letters are in that big_word
 
