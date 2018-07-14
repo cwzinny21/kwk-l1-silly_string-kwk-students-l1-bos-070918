@@ -5,7 +5,7 @@ puts "My favorite word is #{your_favorite_word}"
 
 
 
-your_favorite_word_capital = your_favorite_word.upcase
+favorite_word_in_all)caps = your_favorite_word.upcase
 
 puts "MY FAVORITE WORD IS #{your_favorite_word_capital}"
 
