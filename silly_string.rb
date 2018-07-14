@@ -10,8 +10,7 @@ favorite_word_in_all_caps = your_favorite_word.upcase
 puts "My favorite word is #{favorite_word_in_all_caps}"
 
 
-
-lowercased_phrase = "Happy Summer!".downcase
+lowercased_phrase = "IM NOT SHOUTING".downcase
 
 # Challenge 4: Count how many letters are in that big_word
 
