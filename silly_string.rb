@@ -14,7 +14,7 @@ lowercased_phrase = "IM NOT SHOUTING".downcase
 
 # Challenge 4: Count how many letters are in that big_word
 
-big_word = "happyhappy"
+big_word = "supercalifragilisticexpialidocious"
 
 letter_count = big_word.length 
 
