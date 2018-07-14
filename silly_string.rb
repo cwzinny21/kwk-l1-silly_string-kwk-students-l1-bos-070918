@@ -1,27 +1,26 @@
 
-# Challenge 1: Fill this string in with your favorite word
-
 your_favorite_word = "happy"
 
 puts "My favorite word is #{your_favorite_word}"
 
-# Challenge 2: Capitalize every letter in your_favorite_word using a built in Ruby method
+
 
 your_favorite_word_capital = your_favorite_word.upcase
 
 puts "MY FAVORITE WORD IS #{your_favorite_word_capital}"
 
-# Challenge 3: Make all the letters of phrase lowercase using a built in Ruby method
+
 
 phrase = "happy summer!".downcase
 
 # Challenge 4: Count how many letters are in that big_word
 
-big_word = "happyhappyhappyhappyhappy"
+big_word = "happyhappy"
 
-letter_count = big_word.length # Put a . after big_word and use a String method.
+letter_count = big_word.length 
 
 puts "There are #{letter_count} in #{big_word}"
+
 
 # Challenge 5: Add "wow" and "mom" to big_word
 
